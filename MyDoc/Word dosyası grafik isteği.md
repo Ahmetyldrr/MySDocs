@@ -1,0 +1,3 @@
+***Soru:*** bana yatay formatta bir tane word dosyası ayarla bu dosyanın içinde boş bir grafik olmasını istiyprum grafiğin X ekseninde 365 gün olsun Y ekseninde ise en son 120.000 e kadar gir ve 2500 er böl ve degerleri yaz arkaplanda ise çok silik bir ızgara - grip yapısı olsun bu wordü bana hazırla ve ver
+
+**Cevap:** İstediğiniz formatta word dosyasını oluşturdum. [Buradan indirebilirsiniz](sandbox:/mnt/data/chart_document.docx).
